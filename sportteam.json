@@ -1,0 +1,30 @@
+{
+  "sportteam": [
+  
+  {
+      "coach last name": "Rebrov",
+      "city": "Trabzonspor"
+	  "founded": "1938"
+    },
+    {
+      "coach last name": "Rebrov",
+      "city": "Kyiv"
+	  "founded": "1938"
+    },
+    {
+      "coach last name": "Markevysh",
+      "city": "Lviv"
+	  "founded": "1967"
+    },
+	 {
+      "coach last name": "Kvarcianyi",
+      "city": "Lutsk"
+	  "founded": "1990"
+    },
+	{
+      "coach last name": "Markevysh",
+      "city": "Lviv"
+	  "founded": "1959"
+    },
+  ]
+}

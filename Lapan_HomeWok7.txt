@@ -1,0 +1,6 @@
+document.getElementById("became_student")
+
+document.getElementsByClassName("became_student_button btn-form")[0]
+
+document.getElementsByTagName("a")[157]
+
